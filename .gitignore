@@ -1,0 +1,8 @@
+奇门小工具.exe.spec
+Qimendunjia.code-workspace
+/build
+/dist
+/教程
+**/__pycache__
+/Modules/Generator.py
+output.txt
