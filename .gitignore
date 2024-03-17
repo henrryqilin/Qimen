@@ -1,4 +1,4 @@
-奇门小工具.exe.spec
+*.spec
 Qimendunjia.code-workspace
 /build
 /dist
@@ -6,3 +6,7 @@ Qimendunjia.code-workspace
 **/__pycache__
 /Modules/Generator.py
 output.txt
+pyvenv.cfg
+/lib
+/Scripts
+/include

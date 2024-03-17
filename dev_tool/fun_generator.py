@@ -1,3 +1,6 @@
+# speed for generator is not necessary
+# because it run only once
+
 def dict_output(Key_List,Value_List):
     if len(Key_List) != len(Value_List):
         print('不是哥们,你这左右腿不一般长我咋整啊.')
